@@ -1,4 +1,5 @@
 # Loan default prediction
+## Key finding: 1) Borrowers who are small business owners, do not meet the credit policy of lenders, have a higher interest rate, and have low fico are associated with high default risk. 2) The Logistic Regression model performs best in predicting loan default.
 ## Business problem
 Online lending platforms have experienced a rapid development in recent years thanks to their convienience and feasibility. However, they are facing various difficulties related to loan default, given their clients are individual or small business owners, and borrowers with low income who had been rejected by traditional banks.
 ## Aims of the project
