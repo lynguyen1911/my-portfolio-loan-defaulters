@@ -40,3 +40,5 @@ Percentage of not_fully_paid/ fully_paid by purpose of borrowing!
 
 
 ### Logistic Regression performed best on prediction loan defaulters - 83%  of the defaulted loan was correctly identified when decision threshold is set to 0.4.
+<img width="388" alt="image" src="https://user-images.githubusercontent.com/76152416/218436077-0b627b64-b9f5-49fe-baa0-58b5ed383bbc.png">
+
